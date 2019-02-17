@@ -64,3 +64,7 @@ git pull origin gitRepoUrl
 ```
 git clone gitRepoUrl
 ```
+* cherry-pick 代码，把其他分支的修改应用到当前分支
+```
+git cherry-pick commitId
+```
