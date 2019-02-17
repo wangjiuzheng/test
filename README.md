@@ -45,7 +45,7 @@ git checkout -b branchName
 ```
 * 添加upstream
 ```
-git add remote upstream gitRepoUrl
+git remote add upstream gitRepoUrl
 ```
 * 更新代码到本地
 ```
