@@ -43,6 +43,18 @@ git push -u origin branchName
 ```
 git checkout -b branchName
 ```
+* 查看本地分支
+```
+git branch
+```
+* 查看远程分支
+```
+git branch -a
+```
+* 切换本地分支
+```
+git checkout branchName
+```
 * 添加upstream
 ```
 git remote add upstream gitRepoUrl
